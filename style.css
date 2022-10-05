@@ -29,7 +29,7 @@ body{
 
 
 main{
-      background-color: blueviolet;
+      background-color: orange;
       grid-area: main;
       border-radius: var(--main-radius);
       padding-top: var(--main-padding);
