@@ -42,7 +42,7 @@ nav{
       padding-top: var(--main-padding);
 }
 #Sidebar{
- background-color: darkblue;
+ background-color: red;
  grid-area: sidebar;
   border-radius: var(--main-radius);
       padding-top: var(--main-padding);
@@ -69,6 +69,8 @@ nav{
       padding-top: var(--main-padding);
 
 }
+
+
 
 footer{
 	background-color:dodgerblue;
